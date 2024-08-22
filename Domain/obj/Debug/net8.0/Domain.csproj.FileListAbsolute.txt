@@ -1,0 +1,11 @@
+C:\Users\g4m3r\Documents\Complete guide to building an app with .Net Core and React - Copy\demo\Reactivities\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\g4m3r\Documents\Complete guide to building an app with .Net Core and React - Copy\demo\Reactivities\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\g4m3r\Documents\Complete guide to building an app with .Net Core and React - Copy\demo\Reactivities\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\g4m3r\Documents\Complete guide to building an app with .Net Core and React - Copy\demo\Reactivities\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g4m3r\Documents\Complete guide to building an app with .Net Core and React - Copy\demo\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\g4m3r\Documents\Complete guide to building an app with .Net Core and React - Copy\demo\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\g4m3r\Documents\Complete guide to building an app with .Net Core and React - Copy\demo\Reactivities\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\g4m3r\Documents\Complete guide to building an app with .Net Core and React - Copy\demo\Reactivities\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\g4m3r\Documents\Complete guide to building an app with .Net Core and React - Copy\demo\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\g4m3r\Documents\Complete guide to building an app with .Net Core and React - Copy\demo\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\g4m3r\Documents\Complete guide to building an app with .Net Core and React - Copy\demo\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll
